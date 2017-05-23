@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/16 13:51:52.000.303,=C:\Users\Anthony Lamour\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/05/16 13:52:13.000.831,C:\Users\Anthony Lamour\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\Anthony Lamour\Desktop\ludus academie\algo\bulls_and_cows\Umain.dfm</Transaction>
+    <Transaction>2017/05/16 13:52:13.000.831,C:\Users\Anthony Lamour\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\Anthony Lamour\Desktop\ludus academie\algo\bulls_and_cows\Umain.pas</Transaction>
+    <Transaction>2017/05/16 13:52:27.000.675,C:\Users\Anthony Lamour\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\Anthony Lamour\Desktop\ludus academie\algo\bulls_and_cows\PBulls_and_cows.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
